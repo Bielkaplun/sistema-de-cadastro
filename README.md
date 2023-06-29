@@ -3,6 +3,6 @@
 > Status do projeto: Em desenvolvimento
 >
 > Para rodar esse projet na sua maquina, por favor digite:
-> 
-> npm install
-> ....
+> ***
+> node app.js
+> ***
